@@ -9,3 +9,4 @@ SIEM &amp; Security Operations (HOA) labs from the Al-Razzaq cybersecurity progr
 - [Lab 06: Navigating the SIEM Interface](lab-06-navigating-siem-interface.md)
 - [Lab 07: Configuring Data Sources](lab-07-configuring-data-sources.md)
 - [Lab 08: Gathering Windows Event Logs](lab-08-gathering-windows-event-logs.md)
+- [Lab 09: Gathering Linux Syslogs](lab-09-gathering-linux-syslogs.md)
