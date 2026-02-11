@@ -7,3 +7,4 @@ SIEM &amp; Security Operations (HOA) labs from the Al-Razzaq cybersecurity progr
 - [Lab 04: Selecting a SIEM Platform](lab-04-selecting-siem-platform.md)
 - [Lab 05: Installing Your Chosen SIEM](lab-05-installing-siem.md)
 - [Lab 06: Navigating the SIEM Interface](lab-06-navigating-siem-interface.md)
+- [Lab 07: Configuring Data Sources](lab-07-configuring-data-sources.md)
