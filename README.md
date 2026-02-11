@@ -37,3 +37,5 @@ SIEM &amp; Security Operations (HOA) labs from the Al-Razzaq cybersecurity progr
 - [Lab 12: Custom Field Extraction](Lab_12_Custom_Field_Extraction.md)
 -   Learn how to perform custom field extraction using regex and Grok patterns, validate extracted fields, and handle unexpectedly formatted log data.
 
+- [Lab 13: Basic SIEM Dashboards](Lab_13_Basic_SIEM_Dashboards.md)  
+  Learn how to create and customize basic SIEM dashboards, visualize log data, and interpret security metrics using open-source tools.
