@@ -42,3 +42,6 @@ SIEM &amp; Security Operations (HOA) labs from the Al-Razzaq cybersecurity progr
 
 - [Lab 14: Setting Up Email Notifications](Lab_14_Setting_Up_Email_Notifications.md)  
   Learn how to configure email notifications using an SMTP server, create alert rules, test alerts, and verify notifications for system monitoring.
+
+- [Lab 15: Basic Correlation Rules](Lab_15_Basic_Correlation_Rules.md)  
+   Learn how to create SIEM correlation rules, define thresholds and logic for detecting security threats, and test rule triggering using simulated login events.
