@@ -63,3 +63,6 @@ SIEM &amp; Security Operations (HOA) labs from the Al-Razzaq cybersecurity progr
 
 - [Lab 21: Searching & Filtering Data](Lab_21_Searching_Filtering_Data.md)  
    Learn how to perform field-based log searches, apply time and severity filters, and save frequently used queries to streamline SIEM data analysis workflows.
+
+- [Lab 22: Index Maintenance & Data Retention](Lab_22_Index_Maintenance_Data_Retention.md)  
+   Learn how to maintain database indexes, configure data retention policies, and verify automated handling of outdated logs using open-source systems like PostgreSQL or ElasticSearch.
