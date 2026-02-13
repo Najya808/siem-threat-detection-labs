@@ -1,4 +1,4 @@
-# Lab 28: Simple Log Forensics
+# Lab 27: Simple Log Forensics
 
 ## Objectives
 - Understand the basics of log forensics to identify suspicious activities.
