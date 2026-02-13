@@ -57,3 +57,6 @@ SIEM &amp; Security Operations (HOA) labs from the Al-Razzaq cybersecurity progr
 
 - [Lab 19: Creating a Real-Time Dashboard](Lab_19_Real_Time_Dashboard.md)  
    Learn how to build a real-time monitoring dashboard using Prometheus and Grafana, configure live data visualization, and monitor system activity with automated refresh intervals.
+
+- [Lab 20: Role-Based Access Control](Lab_20_Role_Based_Access_Control.md)  
+   Learn how to implement RBAC using Linux groups, create analyst and admin roles, enforce read-only permissions, and validate role-based access through practical testing.
