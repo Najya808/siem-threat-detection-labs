@@ -99,3 +99,6 @@ SIEM &amp; Security Operations (HOA) labs from the Al-Razzaq cybersecurity progr
 
 - [Lab 33: Creating a Test Incident Response Plan](Lab_34_Incident_Response_Plan.md)  
    Develop and document an Incident Response Plan (IRP) including defined roles, escalation procedures, and a tabletop exercise. This lab helps organizations prepare for cybersecurity incidents and improve response readiness.
+
+- [Lab 34: Generating Security Reports](Lab_34_Generating_Security_Reports.md)  
+  Learn how to collect, compile, and export security event data using open-source tools like OSSEC and Zeek. This lab teaches report generation in multiple formats (PDF, CSV) and provides a foundation for continuous security monitoring.
