@@ -78,3 +78,6 @@ SIEM &amp; Security Operations (HOA) labs from the Al-Razzaq cybersecurity progr
 
 - [Lab 26: Utilizing Dashboards for Executive Reporting](Lab_27_Utilizing_Dashboards_for_Executive_Reporting.md)  
    Learn how to create executive-friendly dashboards using Grafana or Kibana. Import datasets, visualize daily incidents and top event types, apply clear labels, and export or share dashboards for management reporting.
+
+- [Lab 28: Simple Log Forensics](Lab_28_Simple_Log_Forensics.md)  
+   Learn to perform basic log forensics using CLI tools. Filter logs by date/time, isolate suspicious activity, analyze login attempts, and document evidence including timestamps, usernames, and IPs.
