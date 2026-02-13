@@ -88,8 +88,11 @@ SIEM &amp; Security Operations (HOA) labs from the Al-Razzaq cybersecurity progr
 - [Lab 29: Analyzing Trends Over Time](Lab_29_Analyzing_Trends_Over_Time.md)  
    Learn to process and visualize time-series data using Python. Build line charts, compute weekly averages, detect anomalies, and export results as PDF snapshots. Mastery of these techniques aids in identifying patterns, monitoring trends, and supporting data-driven decisions.
 
-- [Lab 31: File Integrity Monitoring (Optional)](Lab_31_File_Integrity_Monitoring.md)  
+- [Lab 30: File Integrity Monitoring (Optional)](Lab_31_File_Integrity_Monitoring.md)  
    Learn to monitor file and directory changes using `auditd` on Linux. Configure watches, simulate changes, and verify alerts. FIM helps detect unauthorized modifications, protecting system integrity and supporting proactive security practices.
 
-- [Lab 32: Setting Up User and Entity Behavior Analytics (UEBA) (Optional)](Lab_32_UEBA_Setup.md)  
+- [Lab 31: Setting Up User and Entity Behavior Analytics (UEBA) (Optional)](Lab_32_UEBA_Setup.md)  
    Learn to configure UEBA using the Elastic Stack (ELK), Filebeat, and Auditbeat. Set up anomaly detection, visualize user behavior, and detect unusual account activities to enhance cybersecurity monitoring.
+
+- [Lab 32: Backup & Restore of SIEM Data](Lab_32_SIEM_Backup_Restore.md)  
+   Learn to perform manual backup and restore of SIEM data (indices and rules) in open-source tools like ELK Stack. Simulate restores in test environments to ensure data integrity and maintain system reliability.
