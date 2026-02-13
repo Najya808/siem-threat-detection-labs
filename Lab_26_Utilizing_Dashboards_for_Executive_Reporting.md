@@ -1,4 +1,4 @@
-# Lab 27: Utilizing Dashboards for Executive Reporting
+# Lab 26: Utilizing Dashboards for Executive Reporting
 
 ## Objectives
 - Understand the basics of creating dashboards for executive reporting.
