@@ -87,3 +87,6 @@ SIEM &amp; Security Operations (HOA) labs from the Al-Razzaq cybersecurity progr
 
 - [Lab 29: Analyzing Trends Over Time](Lab_29_Analyzing_Trends_Over_Time.md)  
    Learn to process and visualize time-series data using Python. Build line charts, compute weekly averages, detect anomalies, and export results as PDF snapshots. Mastery of these techniques aids in identifying patterns, monitoring trends, and supporting data-driven decisions.
+
+- [Lab 31: File Integrity Monitoring (Optional)](Lab_31_File_Integrity_Monitoring.md)  
+   Learn to monitor file and directory changes using `auditd` on Linux. Configure watches, simulate changes, and verify alerts. FIM helps detect unauthorized modifications, protecting system integrity and supporting proactive security practices.
