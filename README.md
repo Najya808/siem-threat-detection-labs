@@ -66,3 +66,9 @@ SIEM &amp; Security Operations (HOA) labs from the Al-Razzaq cybersecurity progr
 
 - [Lab 22: Index Maintenance & Data Retention](Lab_22_Index_Maintenance_Data_Retention.md)  
    Learn how to maintain database indexes, configure data retention policies, and verify automated handling of outdated logs using open-source systems like PostgreSQL or ElasticSearch.
+
+- [Lab 23: Threat Intelligence Feeds](Lab_23_Threat_Intelligence_Feeds.md)  
+   Learn how to integrate threat intelligence feeds into a SIEM system, correlate threat data with inbound logs, and visualize potential threats using open-source tools like ELK Stack or Wazuh.
+
+- [Lab 24: Alarm Tuning](Lab_24_Alarm_Tuning.md)  
+   Learn how to identify frequently triggered false positives, apply exception conditions, and test alarm configurations to improve alert accuracy using open-source monitoring tools like Suricata, Snort, or ElastAlert.
