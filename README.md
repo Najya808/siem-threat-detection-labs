@@ -72,3 +72,6 @@ SIEM &amp; Security Operations (HOA) labs from the Al-Razzaq cybersecurity progr
 
 - [Lab 24: Alarm Tuning](Lab_24_Alarm_Tuning.md)  
    Learn how to identify frequently triggered false positives, apply exception conditions, and test alarm configurations to improve alert accuracy using open-source monitoring tools like Suricata, Snort, or ElastAlert.
+
+- [Lab 25: Basic Incident Response Workflow](Lab_25_Basic_Incident_Response_Workflow.md)  
+   Learn how to simulate a security incident using Fail2Ban, document and analyze it in an ELK Stack SIEM, and follow a basic incident response workflow to improve organizational security practices.
