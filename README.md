@@ -79,5 +79,8 @@ SIEM &amp; Security Operations (HOA) labs from the Al-Razzaq cybersecurity progr
 - [Lab 26: Utilizing Dashboards for Executive Reporting](Lab_27_Utilizing_Dashboards_for_Executive_Reporting.md)  
    Learn how to create executive-friendly dashboards using Grafana or Kibana. Import datasets, visualize daily incidents and top event types, apply clear labels, and export or share dashboards for management reporting.
 
-- [Lab 28: Simple Log Forensics](Lab_28_Simple_Log_Forensics.md)  
+- [Lab 29: Simple Log Forensics](Lab_28_Simple_Log_Forensics.md)  
    Learn to perform basic log forensics using CLI tools. Filter logs by date/time, isolate suspicious activity, analyze login attempts, and document evidence including timestamps, usernames, and IPs.
+
+- [Lab 28: Regular Expressions in Log Searches](Lab_28_Regex_in_Log_Searches.md)  
+   Learn to use Regular Expressions (Regex) to efficiently search and extract data from log files. Construct patterns for IPs, user IDs, and error codes. Apply these skills in Python scripts or text editors for log parsing and forensic analysis.
