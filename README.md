@@ -102,3 +102,6 @@ SIEM &amp; Security Operations (HOA) labs from the Al-Razzaq cybersecurity progr
 
 - [Lab 34: Generating Security Reports](Lab_34_Generating_Security_Reports.md)  
   Learn how to collect, compile, and export security event data using open-source tools like OSSEC and Zeek. This lab teaches report generation in multiple formats (PDF, CSV) and provides a foundation for continuous security monitoring.
+
+- [Lab 35: Automating Simple Responses (SOAR Lite)](Lab_36_Automating_Simple_Responses_SOAR_Lite.md)  
+  Learn to automate simple security responses using OSQuery, iptables, and StackStorm. This optional lab demonstrates how SOAR solutions can streamline incident response and improve operational efficiency.
