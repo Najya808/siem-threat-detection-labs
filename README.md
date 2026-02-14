@@ -108,3 +108,6 @@ SIEM &amp; Security Operations (HOA) labs from the Al-Razzaq cybersecurity progr
 
 - (Lab_36_Onboarding_a_New_Log_Source.md)  
   Onboard a new log source into a SIEM, configure agents or collectors, and validate log parsing and dashboard visualization.
+
+- (Lab_38_Reviewing_System_Health_and_Performance.md)  
+  Monitor SIEM system health using Prometheus by analyzing CPU/memory usage, ingestion and indexing performance, and identifying bottlenecks through system log analysis.
