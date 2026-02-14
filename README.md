@@ -111,3 +111,6 @@ SIEM &amp; Security Operations (HOA) labs from the Al-Razzaq cybersecurity progr
 
 - (Lab_37_Reviewing_System_Health_and_Performance.md)  
   Monitor SIEM system health using Prometheus by analyzing CPU/memory usage, ingestion and indexing performance, and identifying bottlenecks through system log analysis.
+
+- (Lab_38_Periodic_Rule_and_Alert_Review.md)  
+  Learn how to review and evaluate monitoring rules and alerts, identify outdated configurations, and decide whether to retire, revise, or retain rules to maintain efficient and accurate security monitoring.
